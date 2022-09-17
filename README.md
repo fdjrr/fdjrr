@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadjrir Herlambang</h1>
-<h3 align="center">A passionate IT from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate IT from Indonesia</h3>
 
 - 🌱 I’m currently learning **CodeIgniter, Laravel, Python, VueJS & NodeJS**
 
