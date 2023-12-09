@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadjrir Herlambang</h1>
 <h3 align="center">Junior Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **CodeIgniter, Laravel & Python**
+- 🌱 I’m currently learning **CodeIgniter, Laravel, React, NextJS, Flutter & Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fdjrr](https://github.com/fdjrr)
 
