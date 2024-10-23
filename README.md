@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadjrir Herlambang</h1>
-<h3 align="center">Junior Developer from Indonesia</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **CodeIgniter, Laravel, React, NextJS, Flutter & Python**
 
