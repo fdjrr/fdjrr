@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **fadjrir.co.id@gmail.com**
 
-- ⚡ Fun fact **Ideas come from mistakes.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://fb.com/fadjrir.co.id](https://www.facebook.com/profile.php?id=100092458515186)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadjrir.co.id" height="30" width="40" /></a>
