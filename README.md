@@ -53,6 +53,6 @@
 
 ### My Stats:
 
-[![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=luthfi2603&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
+[![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=fdjrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
 
-[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luthfi2603&langs_count=10&layout=compact&layout=compact&theme=algolia)](#)
+[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdjrr&langs_count=10&layout=compact&layout=compact&theme=algolia)](#)
