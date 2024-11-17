@@ -50,3 +50,9 @@
   <a href="https://www.debian.org/index.id.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a><a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
+
+### My Stats:
+
+[![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=luthfi2603&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
+
+[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luthfi2603&langs_count=10&layout=compact&layout=compact&theme=algolia)](#)
