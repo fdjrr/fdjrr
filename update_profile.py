@@ -241,7 +241,7 @@ def info_lines(s):
         [],
         kv("OS", "Windows, Linux"),
         kv("Uptime", f"{y} years, {m} months, {d} days"),
-        kv("Host", "Trimble"),
+        kv("Host", "Medan, Indonesia"),
         kv("Kernel", "Software Engineer"),
         kv("IDE", "Claude Code, Zed"),
         [],
