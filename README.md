@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fadjrir Herlambang</h1>
-<h3 align="center">Full-Stack Developer</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/fdjrr](https://github.com/fdjrr)
-- 📫 How to reach me **fadjrir.co.id@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Fadjrir Herlambang's GitHub profile" src="dark_mode.svg">
+</picture>
